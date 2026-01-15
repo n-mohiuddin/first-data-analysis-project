@@ -80,4 +80,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 🧑‍💻 Author
 
-Structured and cleaned with ChatGPT assistance.
+Nezihe Mohiuddin
